@@ -1,0 +1,11 @@
+{
+	"name": "Docker Compose",
+	"dockerComposeFile": "docker-compose.yaml",
+	"service": "dc-full-stack-code-challenge-api",
+    "workspaceFolder": "/app",
+    "extensions": [
+		"ms-python.python",
+		"ms-python.black-formatter",
+		"charliermarsh.ruff"
+	]
+}

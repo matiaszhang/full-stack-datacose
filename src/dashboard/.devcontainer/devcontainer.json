@@ -1,0 +1,7 @@
+{
+    "name": "Docker Compose",
+    "dockerComposeFile": "docker-compose.yaml",
+    "service": "dc-full-stack-code-challenge-dashboard",
+    "workspaceFolder": "/app",
+    "extensions": ["octref.vetur", "dbaeumer.vscode-eslint"]
+}

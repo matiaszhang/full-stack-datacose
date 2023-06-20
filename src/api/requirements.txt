@@ -1,0 +1,4 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+black==23.3.0
+ruff==0.0.272
