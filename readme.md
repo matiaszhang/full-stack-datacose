@@ -53,4 +53,4 @@ The modal to add/edit a book should have three fields:
 - Author (should be a searchable treeselect with authors)
 
 ## Notes
-The usage of the provided template is mandatory. Submissions not written in this template, will not be reviewed. Writing tests is not mandatory, but doing so will give you bonus points.
+The usage of the provided template is mandatory. Submissions not written in this template, will not be reviewed. Writing tests is not mandatory, but doing so will give you bonus points. Please fork this repository and provide us a link to a public GitHub repository.
